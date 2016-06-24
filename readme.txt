@@ -1,0 +1,1 @@
+A collection of MySQL assignments.  Different schema and queries are used in each to build up confidence in the use of MySQL.
